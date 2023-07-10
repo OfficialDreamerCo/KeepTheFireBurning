@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+    <meta>
+  <head>
+    <title>Keep The Fire Burning</title>
+  </head>
+  <body style="background-color: black;">
+  </body>
+</html>
+<body>
+    <section id="#main">
+      <video src="Candle.mp4" muted autoplay loop></video>
+    </section>
+</meta>
+</body>
